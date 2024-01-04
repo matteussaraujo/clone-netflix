@@ -1,4 +1,4 @@
-const API_KEY = "e4f6a4c9242a2ae28d81ed446acf4d41";
+const API_KEY = "6a1a3eaf6423ddea16f20e87e96be4cb";
 
 const categories = [
   {
